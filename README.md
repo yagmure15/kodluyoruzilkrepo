@@ -10,11 +10,12 @@ git clone https://github.com/yagmure15/kodluyoruzilkrepo.git
 ```
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
+
 Linux için;
 
 ```
 cd kodlutoruzrepo
-code
+code .
 ```
 
 # Contributing
@@ -22,7 +23,8 @@ code
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bi konu açınız.
 
 # License
-[MIT](www.google.com)
+
+[MIT](https://choosealicense.com/licenses/mit/)
 =======
 
 
