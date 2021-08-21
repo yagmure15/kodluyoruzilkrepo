@@ -11,7 +11,8 @@ git clone https://github.com/yagmure15/kodluyoruzilkrepo.git
 # Usage
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 Linux için;
-"""
+
+'''Python
 cd kodlutoruzrepo
 code
-"""
+'''
